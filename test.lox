@@ -1,0 +1,18 @@
+// this is a comment
+(( )){} // grouping stuff
+!*+-/=<> <= == // operators
+"hello world"
+
+"
+multi
+
+line
+
+string
+"
+
+4 5 6 123.1345
+
+if (a == 3) and (b == 10) {
+    print hello
+}
